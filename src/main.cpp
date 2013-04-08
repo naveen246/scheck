@@ -4,6 +4,7 @@
 #include <vector>
 #include "dictionary.h"
 #include "parser.h"
+#include "error.h"
 
 using namespace std;
 
